@@ -23,14 +23,15 @@
     "prettier": "^3.3.2",
     "primeicons": "^7.0.0",
     "tw-merge": "^0.0.1-alpha.3",
-    "vue": "latest"
+    "vue": "latest",
+    "tailwindcss": "^3.4.6"
+
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20240718.0",
     "autoprefixer": "^10.4.19",
     "nitro-cloudflare-dev": "^0.1.6",
     "postcss": "^8.4.39",
-    "tailwindcss": "^3.4.6",
     "wrangler": "^3.65.1"
   }
 }

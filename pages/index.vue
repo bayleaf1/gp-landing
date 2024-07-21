@@ -1,5 +1,5 @@
 <template>
-  <!-- <Header/>
+  <Header />
   <SectionHero />
   <SectionAbout />
   <SectionClients />
@@ -11,5 +11,5 @@
   <SectionTestimonials />
   <SectionTeam />
   <SectionContactUs />
-  <Footer /> -->
+  <Footer />
 </template>
