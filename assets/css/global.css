@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.delay-0 {
+  animation-delay: 0s;
+}
+.delay-1 {
+  animation-delay: 0.25s;
+}
+.delay-2 {
+  animation-delay: 0.5s;
+}
+.delay-3 {
+  animation-delay: 0.75s;
+}
+.delay-4 {
+  animation-delay: 1s;
+}
+
+
+input,
+textarea {
+    border: 1px solid gray;
+    padding: 8px 12px;
+    border-radius: 8px;
+    width: 100%;
+    color: black;
+}
