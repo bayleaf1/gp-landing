@@ -16,7 +16,7 @@ const items = [
 
 
         <div  class=" text-center lg:max-w-[490px] mx-auto lg:mt-20">
-            <h2 class="text-4xl pt-28 lg:text-6xl">Powerful Digital Solutions With GP<span>.</span></h2>
+            <h2 class="text-4xl pt-28 lg:text-6xl">Powerful Digital Solutions With GPXX<span>.</span></h2>
             <p class="text-xl lg:mt-2">We are team of talented digital marketers</p>
         </div>
 
